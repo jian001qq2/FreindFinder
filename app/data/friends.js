@@ -1,0 +1,20 @@
+ //DATA array of objects that will hold all the data entered by the users
+ var data=[{
+    "name":"Ahmed",
+    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "scores":[
+        5,
+        1,
+        4,
+        4,
+        5,
+        1,
+        2,
+        5,
+        4,
+        1
+      ]
+  }
+ ];
+//export the array, make it available to use in ohter files
+ module.exports=data;
