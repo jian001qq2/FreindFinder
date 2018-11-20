@@ -1,7 +1,7 @@
  //DATA array of objects that will hold all the data entered by the users
  var data=[{
     "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://images.pexels.com/photos/103123/pexels-photo-103123.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
     "scores":[
         5,
         1,
